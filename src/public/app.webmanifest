@@ -1,0 +1,42 @@
+{
+    "id": "restoran-lite-pwa-1",
+    "start_url": "./index.html",
+    "name": "Restoran Apps Lite",
+    "short_name": "Restoran",
+    "description": "Temukan restoran favoritmu disini!",
+    "display": "standalone",
+    "background_color": "#fffacd",
+    "theme_color": "#fb852c",
+    "icons": [
+        {
+            "src": "/icons/icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
